@@ -1,4 +1,4 @@
-# Hi, I'm 1efferson 👋
+# Hi, I'm Jefferson 👋
 
 ## About Me
 
