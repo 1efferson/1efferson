@@ -39,7 +39,7 @@ When I'm not coding, you'll find me swimming, playing tennis, or exploring new c
 
 ## 🗣️ Motto
 
-> "Only start what you're willing to give your all."
+> "If plan A doesn’t work, there are 25 more letters."
 
 ---
 
