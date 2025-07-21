@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software engineer with experience in Python, HTML, CSS, JavaScript, and Tkinter. I love building interactive and visually appealing applications that make everyday tasks easier and more enjoyable.
+I'm a passionate software developer with experience in Python and web development. I love building interactive and visually appealing applications that make everyday tasks easier and more enjoyable.
 
 ---
 
