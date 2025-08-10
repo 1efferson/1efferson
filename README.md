@@ -25,9 +25,9 @@ I'm a passionate software developer with experience in Python and web developmen
 
 ## 💻 Skills
 
-- Python, Flask, Tkinter
+- Python, Flask, Tkinter, node.js, mongodb
 - HTML, CSS, JavaScript
-- Three.js, Frontend UI/UX
+- Three.js , GSAP.
 
 ---
 
