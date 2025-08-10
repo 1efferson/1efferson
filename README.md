@@ -39,10 +39,10 @@ When I'm not coding, you'll find me swimming, playing tennis, or exploring new c
 
 ## 🗣️ Motto
 
- ``` "If plan A doesn’t work, there are 25 more letters."
+ > "If plan A doesn’t work, there are 25 more letters."
 
 ---
 
 Feel free to reach out or check out my projects!
 
-check out the rest below
+check out the rest of my projects in my profile 
