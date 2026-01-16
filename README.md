@@ -9,6 +9,7 @@ I'm a passionate software developer with experience in Python and web developmen
 ## 🌟 Projects
 
 - **Learning Management System**
+
    Code-LMS is a learning management system built with Flask for managing courses, 
    enrollments, and learning content. It is designed to be simple, functional, and easy to extend,
    while giving instructors the tools they need to manage courses and learners.
